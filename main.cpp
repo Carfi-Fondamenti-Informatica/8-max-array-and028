@@ -10,7 +10,7 @@ int main() {
     for (int i=0; i<dim; i++){
         cin>>vettore[i];
     }
-    float massimo= max (vettore,3);
+    float massimo= max (vettore,dim);
     cout<<massimo<<endl;
     return 0;
 }
