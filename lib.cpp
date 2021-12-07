@@ -6,5 +6,5 @@ float max(float vettore[],int dim){
             massimo=vettore[i];
         }
     }
-    return massimo;
+    return massimo
 }
